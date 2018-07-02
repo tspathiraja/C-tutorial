@@ -1,4 +1,4 @@
-/* Program 4.5 */
+/* exercise4.4 */
 #include <stdio.h>
 void main(){
 	int marks;
