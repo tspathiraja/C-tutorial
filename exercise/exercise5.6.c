@@ -5,12 +5,12 @@ void main(){
 	do{
 	printf("Menu");
 	printf("\n-----------------------------------");
-	printf("\n1 - Microsoft Word");
-	printf("\n2 - Yahoo messenger");
-	printf("\n3 - AutoCAD");
-	printf("\n4 - Java Games");
-	printf("\n-----------------------------------");
-	printf("\nEnter number of your preference: ");
+	printf("1 - Microsoft Word\n");
+	printf("2 - Yahoo messenger\n");
+	printf("3 - AutoCAD\n");
+	printf("4 - Java Games\n");
+	printf("-----------------------------------\n");
+	printf("Enter number of your preference: \n");
 	scanf("%d",&a);
 	switch (a){
 		case 1:
